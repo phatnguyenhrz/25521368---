@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1774593100 source:d:\oop\b4\main.cpp
+	<iostream>
+	"GioPhutGiay.h"
+
+1774592267 d:\oop\b4\include\giophutgiay.h
+
+1775708024 source:d:\oop\b4\src\giophutgiay.cpp
+	<iostream>
+	"GioPhutGiay.h"
+
